@@ -6,7 +6,7 @@ An autonomous GitHub Pull Request reviewer powered by LLMs. When a PR is opened,
 
 > Open a Pull Request → Get an instant AI review posted as a comment
 
-![AI Code Reviewer Demo](demo.png)
+![AI Code Reviewer Demo](https://raw.githubusercontent.com/Utkarsh182003/AI-Code/main/demo.png)
 
 ---
 
